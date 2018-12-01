@@ -8,7 +8,7 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.lew.byiq"
+      "PACKAGE_NAME": "com.lewqweas.mipin"
     }
   },
   "dependent_plugins": {}
